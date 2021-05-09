@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-tours/static/css/main.e5f394f4.chunk.css",
+    "main.js": "/react-tours/static/js/main.9ceef2fd.chunk.js",
+    "main.js.map": "/react-tours/static/js/main.9ceef2fd.chunk.js.map",
+    "runtime-main.js": "/react-tours/static/js/runtime-main.130ffea5.js",
+    "runtime-main.js.map": "/react-tours/static/js/runtime-main.130ffea5.js.map",
+    "static/js/2.ae7f6879.chunk.js": "/react-tours/static/js/2.ae7f6879.chunk.js",
+    "static/js/2.ae7f6879.chunk.js.map": "/react-tours/static/js/2.ae7f6879.chunk.js.map",
+    "index.html": "/react-tours/index.html",
+    "static/css/main.e5f394f4.chunk.css.map": "/react-tours/static/css/main.e5f394f4.chunk.css.map",
+    "static/js/2.ae7f6879.chunk.js.LICENSE.txt": "/react-tours/static/js/2.ae7f6879.chunk.js.LICENSE.txt",
+    "static/media/01.bab56d2a.jpg": "/react-tours/static/media/01.bab56d2a.jpg",
+    "static/media/02.774aa05e.jpg": "/react-tours/static/media/02.774aa05e.jpg",
+    "static/media/03.77be9d19.jpg": "/react-tours/static/media/03.77be9d19.jpg",
+    "static/media/04.ca086681.jpg": "/react-tours/static/media/04.ca086681.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.130ffea5.js",
+    "static/js/2.ae7f6879.chunk.js",
+    "static/css/main.e5f394f4.chunk.css",
+    "static/js/main.9ceef2fd.chunk.js"
+  ]
+}
